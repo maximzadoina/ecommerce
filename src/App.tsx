@@ -45,7 +45,6 @@ class App extends React.Component<IProps> {
   }
 
   render() {
-    console.log("aa", this.props.currentUser);
     return (
       <div>
         <Header />
