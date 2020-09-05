@@ -1,0 +1,8 @@
+"use strict";
+exports.__esModule = true;
+exports.ShopActionTypes = void 0;
+exports.ShopActionTypes = {
+    FETCH_COLLECTIONS_START: 'FETCH_COLLECTIONS_START',
+    FETCH_COLLECTIONS_SUCCESS: 'FETCH_COLLECTIONS_SUCCESS',
+    FETCH_COLLECTIONS_FAILURE: 'FETCH_COLLECTIONS_FAILURE'
+};
